@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const minutesLeft = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
       const secondsLeft = Math.floor((difference % (1000 * 60)) / 1000);
   
-      countdown.textContent = `Tiempo para el próximo lunes: ${daysLeft} días, ${hoursLeft} horas, ${minutesLeft} minutos, ${secondsLeft} segundos`;
+      countdown.textContent = `Time until next Monday: ${daysLeft} days, ${hoursLeft} hours, ${minutesLeft} minutes, ${secondsLeft} seconds`;
     }
   
     function toggleCountdown() {
