@@ -5,7 +5,7 @@ A weekly commitment app built on one idea: **one intention per week, seven days 
 🔗 **Live demo:** [laumujica.github.io/mondaymanifest](https://laumujica.github.io/mondaymanifest/)
 🚧 **Status:** MVP, work in progress · Started November 2023
 
-![Monday Manifest screenshot](./screenshot.png)
+![Monday Manifest screenshot](./screenshot_mvp_sep26.png)
 
 ## The idea
 
