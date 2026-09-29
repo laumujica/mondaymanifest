@@ -1,3 +1,5 @@
+![Monday Manifest](./banner.png)
+
 # Monday Manifest
 
 A weekly commitment app built on one idea: **one intention per week, seven days to follow through.**
