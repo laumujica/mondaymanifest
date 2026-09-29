@@ -2,7 +2,8 @@
 
 A weekly commitment app built on one idea: **one intention per week, seven days to follow through.**
 
-🔗 **Live demo:** [add GitHub Pages link]
+🔗 **Live demo:** [laumujica.github.io/mondaymanifest](https://laumujica.github.io/mondaymanifest/)
+🚧 **Status:** MVP, work in progress · Started November 2023
 
 ![Monday Manifest screenshot](./screenshot.png)
 
@@ -27,6 +28,12 @@ This is a small project, but it's built around how I think about products for we
 - **No punishment loops.** Unfinished doesn't mean failed. Users are not shamed for missing a goal.
 - **Ritual.** Monday becomes a deliberate moment to decide what matters this week.
 
+## About this project
+
+I started Monday Manifest on **November 16, 2023**, and it's still a work in progress. I keep building it because I love creating digital products: turning an idea into something people can use, and refining it over time.
+
+AI has changed how I work on it. Today it helps me improve the product and make it grow in ways I couldn't at the start.
+
 ## Current status: MVP
 
 Built to validate the core interaction before adding features.
@@ -49,7 +56,7 @@ Built to validate the core interaction before adding features.
 
 Vanilla **HTML, CSS and JavaScript**. No frameworks, no build step.
 
-## Author
+---
 
-**Laura Mujica**, Senior Graphic Designer & Brand Designer
-[lauramujica.com](https://lauramujica.com)
+Laura Mujica · 2026 ⚡  
+[lauramujica.com](https://lauramujica.com/)
