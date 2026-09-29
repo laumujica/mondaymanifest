@@ -1,26 +1,41 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Monday Manifest</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div class="container">
-    <h1>Monday Manifest</h1>
-    <div class="task-list">
-        <textarea id="taskInput" placeholder="This week I will achieve... (max. 600 characters)" maxlength="600"></textarea>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Monday Manifest</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Monday Manifest</h1>
+      <div class="task-list">
+        <textarea
+          id="taskInput"
+          placeholder="This week I will achieve... (max. 600 characters)"
+          maxlength="600"
+        ></textarea>
         <button id="addTaskBtn" enabled>💪</button>
         <span id="charCount">600</span>
       </div>
-    <div class="countdown-container">
-      <p id="countdown"></p>
-      <button id="toggleCountdown">Show/Hide Countdown</button>
+      <div class="countdown-container">
+        <p id="countdown"></p>
+        <button id="toggleCountdown">Show/Hide Countdown</button>
+      </div>
+      <div id="tasks"></div>
     </div>
-    <div id="tasks"></div>
-  </div>
 
-  <script src="script.js"></script>
-   </body>
+    <footer>
+      Monday Manifest MVP ·
+      <a
+        href="https://lauramujica.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Laura Mujica</a
+      >
+      · 2023-2026 ⚡
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
 </html>
